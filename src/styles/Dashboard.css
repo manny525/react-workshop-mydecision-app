@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    color: #a5afd7;
+}
+
+.dashboard-header {
+    color: #a5afd7;
+    margin-bottom: 5%;
+    background: #3c4251;
+    padding: 1%;
+}
+
+.decider-container {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    color: #a5afd7;
+}
+
+.decider-box {
+    width: 50vw;
+    margin: 1% auto;
+}
